@@ -49,8 +49,8 @@ A collection of automation tools for **Android Application Security Testing (VAP
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/Android-AppSec-Toolkit.git
-cd Android-AppSec-Toolkit
+git clone https://github.com/your-username/AndroidSecurityAutomation.git
+cd AndroidSecurityAutomation
 pip install -r requirements.txt
 ```
 
@@ -115,3 +115,4 @@ Do not use against systems without proper permission.
 ## 👨‍💻 Author
 
 Security Researcher | VAPT | Bug Bounty Hunter
+Sudhanshu Jagtap
